@@ -1,5 +1,5 @@
 # About Me:
-my name is chris, a junior studying cs at ub. <br><br>learn more about me at: https://chrisj-portfolio.vercel.app/
+my name is chris, a junior studying cs at ub. <br><br>learn more about me at: https://chrxsjung.me/
 
 
 ## Socials:
